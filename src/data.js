@@ -1,39 +1,39 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Password Generator",
+    subtitle: "HTML, CSS, JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "This project generates a random password based on user input. The app runs in the browser and features dynamically updated HTML and CSS powered by Javascript.",
+    image: "./password.PNG",
+    link: "https://wberry86.github.io/code-generator/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Work Day Scheduler",
+    subtitle: "HTML, CSS, JavaScript, jQuery",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "This project was about creating a simple calendar application that utilizes local storage in order to save events according to each hour of the working day. ",
+    image: "./workday.PNG",
+    link: "https://wberry86.github.io/work-day-scheduler/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Dog Maps",
+    subtitle: "Group Project",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "This is a website project to display a map and list of dog friendly parks and the weather for the user. HTML, CSS, JavaScript, and server-side API's were utilized",
+    image: "./dog-maps.PNG",
+    link: "https://wberry86.github.io/dog-maps/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Run Buddy",
+    subtitle: "HTML, Advanced CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "This project was an exercise in website building with a mobile friendly mindset utilizing HTML and advanced CSS tactics including: flexbox, media queries, and CSS variables.",
+    image: "./run-buddy.PNG",
+    link: "https://wberry86.github.io/run-buddy/",
   },
 ];
 
-export const testimonials = [
+export const resume = [
   {
     quote:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
@@ -53,8 +53,12 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "Handlebars",
   "Node",
   "GraphQL",
-  "Material UI",
+  "CSS",
+  "HTML",
+  "MySQL",
+  "NoSQL",
+  "Apollo"
 ];
