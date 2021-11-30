@@ -3,7 +3,7 @@ import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
 import { resume } from "../data";
 
 export default function Resume() {
-  const [embedURL]=useState("https://drive.google.com/file/d/1EhzOT6gGMosVfcwjCsLusgJuxnWLEk8F/preview");
+  const [embedURL]=useState("https://docs.google.com/document/d/1KWYIXSUOo9A_OHDwrsFm8bZOtl-tO40LBkWxCkmX1J0/edit?usp=sharing");
   return (
     <section id="resume">
       <div className="container px-5 py-10 mx-auto text-center">
