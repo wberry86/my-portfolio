@@ -10,9 +10,8 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I am looking to start a career in Web Development.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          Driven Full Stack Web Developer with a background in customer service and a Full-Stack Certificate from Vanderbilt University Coding Bootcamp - Nashville.  During the intensive boot camp, I have participated in multiple group projects specifically utilizing  Node.js, JavaScript, React, MySQL, and Apollo.  After building the applications from start to finish my team was able to demo the projects to a group of industry professionals with positive reviews. Enjoy collaborating and working on a diverse team as well as solving problems in high-stress environments.  An articulate individual who enjoys connecting with co-workers and is passionate about building applications that assist everyday people in order to make their lives easier.  Looking to bring my knowledge, communication, and technical skills to an organization while focusing on continuous learning also while engaging in my community to give back in the field of web development. Over 100+ hours of experience building full stack applications both individually and in teams. Past academic history includes a Bachelor of Arts in Film Studies from Carson Newman University.
+
           </p>
           <div className="flex justify-center">
             <a
